@@ -41,6 +41,24 @@ Workflow Automation
 
 ---
 
+Question
+
+↓
+
+Candidate Answer
+
+↓
+
+Evaluation
+
+↓
+
+Follow-up
+
+↓
+
+Feedback
+
 ## Sample Outputs
 
 (Image)
